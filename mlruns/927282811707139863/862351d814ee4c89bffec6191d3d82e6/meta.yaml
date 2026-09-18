@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/raswa/OneDrive/Desktop/Docker/mlruns/927282811707139863/862351d814ee4c89bffec6191d3d82e6/artifacts
+end_time: 1786098154878
+entry_point_name: ''
+experiment_id: '927282811707139863'
+lifecycle_stage: active
+run_id: 862351d814ee4c89bffec6191d3d82e6
+run_name: indecisive-stag-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1786098138010
+status: 3
+tags: []
+user_id: raswa

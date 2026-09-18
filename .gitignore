@@ -1,0 +1,17 @@
+venv/
+
+__pycache__/
+
+*.pyc
+
+artifacts/
+
+mlruns/
+
+.env
+
+.idea/
+
+.vscode/
+
+*.log

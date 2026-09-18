@@ -22,4 +22,4 @@ requests==2.32.4
 
 prometheus-client==0.22.1
 
-httpx==0.30.1
+httpx
